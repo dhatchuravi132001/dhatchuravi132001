@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dhatchanaMoorthyr
+- 👋 Hi, I’m @dhatchanamoorthyr
 - 👀 I’m interested in Software development, Java development, Backend and Frontend Development 
 - 💞️ I’m looking to collaborate on any Software developer or Engineer Role
 - 📫 How to reach me mail:dhatchuravi13@gmail.com  github:dhatchuravi132001
